@@ -1,4 +1,4 @@
-# 1337
+# 1337 August Piscine 2024 - yalazrek
  My solutions for the August Piscine 2024. <br />
   Please open an issue on github if you find anything incorrect.<br/>
   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
@@ -30,20 +30,20 @@
 | C02 | [100%](./C02) | 
 | C03 |  [100%](./C03) | 
 | C04 |  [100%](./C04)| 
-| C05 | [80%](./C05)| 
+| C05 | [100%](./C05)| 
 | C06 | [100%](./C06) | 
 | C07 |  [100%](./C07)| 
 | C08 | [100%](./C08) |
 | C09 |  [100%](./C09)| 
-| C10 | [ko](./C10) | 
+| C10 | [0%](./C10) | 
 | C11 | [100%](./C11) | 
 | C12 |  [not rated](./C12) | 
 | C13 | [not rated](./C13) | 
-| Exam02 | [solution](./EXAM02) | 
+| Exam02 | [solution](./Exam02) | 
 | Rush00 | [100%](./Rush00) |
 | Rush01 | [100%](./Rush01) |
 | Rush02 | [not rated](./Rush02) | 
-| BSQ | | [50%](./BSQ) | 
+| BSQ | [50%](./BSQ) | 
  
 `Enjoy coding and GOOD LUCK in your piscine.`
 
